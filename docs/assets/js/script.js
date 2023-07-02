@@ -57,7 +57,7 @@ function promptUser(){
   }
 
   alert("For the next section:\n" +
-          "At least one charater type needs to be selected.\n" +
+          "At least one character type needs to be selected.\n" +
           "Select \'Ok\' for \'Yes\', \'Cancel\' for \'No\'");
 
   // Ask user for character type input
@@ -76,7 +76,7 @@ function promptUser(){
       }
       // Check enabled condition of passwordTypes
       if (index == Object.keys(passwordTypes).length-1 && attempts == 2){
-        alert("Max attempts tried, reseting prompts.");
+        alert("Max attempts tried, resetting prompts.");
         passwordLength = 0;
       }
       else if (index == Object.keys(passwordTypes).length-1 && attempts < 3){

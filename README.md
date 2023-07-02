@@ -1,5 +1,5 @@
 ## Description
-Web application that allows an employee or other indiviual to create a randomly generated password.  User will be prompted from different sets of criteria ranging from length of password (8-128 charaters) as well as lowercase, uppercase, numeric, and special characters. Starter code from [Friendly Parakeet](https://github.com/coding-boot-camp/friendly-parakeet)
+Web application that allows an employee or other individual to create a randomly generated password.  User will be prompted from different sets of criteria ranging from length of password (8-128 characters) as well as lowercase, uppercase, numeric, and special characters. Starter code from [Friendly Parakeet](https://github.com/coding-boot-camp/friendly-parakeet)
 
 ## Link/Preview
 
